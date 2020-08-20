@@ -13,7 +13,7 @@ public class APP {
 		String q2 = "What color are bananas?" 
 					+ "(a)red/green\n(b)yellow\n(c)blue\n"; 
 		String q3 = "Who is the president of your country?\n" 
-				+ "(a)red/Kenyatta\n(b)Magufuli\n(c)Trump\n"; 
+				 +"(a)red/Kenyatta\n(b)Magufuli\n(c)Trump\n"; 
 		
 		
 	Question [] questions = {	
